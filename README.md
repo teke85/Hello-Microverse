@@ -70,3 +70,7 @@ Give a ⭐️ if you like this project!
 - [Setup Linters](https://questions.microverse.org/t/configure-linters-for-html-and-css/2009)
 - [Elie ](https://github.com/X-Elie-X), for always being their to help
 - Thanks to everyone who will dedicate time to check this code and suggest any changes to improve the project.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
