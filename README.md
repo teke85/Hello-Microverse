@@ -2,7 +2,7 @@
 
 # Project Name
 
-> "Hello World"
+> **Hello World**
 
 # Project Requirements
 
@@ -50,11 +50,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@teke85](https://https://github.com/teke85)
-- Twitter: [@muttau](https://twitter.com/@rbulia_original)
-- LinkedIn: [isiteketo mutau](https://https://www.linkedin.com/in/isiteketo-mutau-736894241/)
+- GitHub: [@teke85](https//github.com/teke85)
+- Twitter: [@muttau](https://twitter.com/muttau)
+- LinkedIn: [isiteketo mutau](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
 
 ## 🤝 Contributing
 
@@ -69,4 +69,4 @@ Give a ⭐️ if you like this project!
 - [Youtube Videos](https://www.youtube.com/watch?v=PrIY8sYwe90)
 - [Setup Linters](https://questions.microverse.org/t/configure-linters-for-html-and-css/2009)
 - [Elie ](https://github.com/X-Elie-X), for always being their to help
-- Thanks to everyone who will get time to check this code and suggest any issue to improve the page.
+- Thanks to everyone who will dedicate time to check this code and suggest any changes to improve the project.
