@@ -2,7 +2,7 @@
 
 # Project Name
 
-> **Hello World**
+> **Hello Microverse!**
 
 # Project Requirements
 
@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [@teke85](https//github.com/teke85)
+- GitHub: [@teke85](https://github.com/teke85)
 - Twitter: [@muttau](https://twitter.com/muttau)
 - LinkedIn: [isiteketo mutau](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
 
